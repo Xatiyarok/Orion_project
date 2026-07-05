@@ -15,8 +15,6 @@ This repository contains the complete hardware development process, including:
 - Future improvements
 - Firmware interface
 
----
-
 ## Objectives
 
 - Design a custom GNSS receiver PCB.
@@ -24,8 +22,6 @@ This repository contains the complete hardware development process, including:
 - Understand GNSS receiver architecture.
 - Integrate the receiver with an ESP32-S3.
 - Document the engineering process from concept to PCB.
-
----
 
 ## Hardware
 
@@ -37,8 +33,6 @@ Main components:
 - External GNSS antenna
 - 3.3 V regulated power supply (future revision)
 
----
-
 ## Current Status
 
 ✔ System architecture completed
@@ -47,13 +41,11 @@ Main components:
 
 ✔ Schematic completed
 
-🚧 PCB Layout in progress
+PCB Layout in progress
 
-⬜ Firmware development
+Firmware development
 
-⬜ Hardware validation
-
----
+Hardware validation
 
 ## Learning Goals
 
@@ -68,8 +60,6 @@ Project Orion was developed as a personal engineering project to deepen the unde
 - Power Distribution
 - Signal Integrity
 
----
-
 ## Future Improvements
 
 - Four-layer PCB
@@ -78,8 +68,6 @@ Project Orion was developed as a personal engineering project to deepen the unde
 - USB-C interface
 - Integrated power supply
 - External active antenna support
-
----
 
 ## License
 
