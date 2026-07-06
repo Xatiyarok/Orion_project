@@ -12,7 +12,7 @@ This repository contains the complete hardware development process, including:
 - RF design considerations
 - PCB layout
 - Design decisions
-- Future improvements
+- Improvements
 - Firmware interface
 
 ## Objectives
@@ -31,7 +31,7 @@ Main components:
 - ESP32-S3-WROOM-1U
 - U.FL RF connector
 - External GNSS antenna
-- 3.3 V regulated power supply (future revision)
+- 3.3 V regulated power supply
 
 ## Current Status
 
@@ -60,11 +60,10 @@ Project Orion was developed as a personal engineering project to deepen the unde
 - Power Distribution
 - Signal Integrity
 
-## Future Improvements
+## Improvements in progress
 
 - Four-layer PCB
 - Controlled 50 Ω RF impedance
 - Battery management
-- USB-C interface
 - Integrated power supply
 - External active antenna support
