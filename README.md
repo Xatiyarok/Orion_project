@@ -68,7 +68,3 @@ Project Orion was developed as a personal engineering project to deepen the unde
 - USB-C interface
 - Integrated power supply
 - External active antenna support
-
-## License
-
-MIT License
