@@ -31,7 +31,9 @@ Main components:
 - ESP32-S3-WROOM-1U
 - U.FL RF connector
 - External GNSS antenna
-- 3.3 V regulated power supply
+- TPS631000 (Buck-Bost Converter)
+- USB C connector
+- 3 x AAA battery
 
 ## Current Status
 
@@ -62,8 +64,7 @@ Project Orion was developed as a personal engineering project to deepen the unde
 
 ## Improvements in progress
 
-- Four-layer PCB
 - Controlled 50 Ω RF impedance
 - Battery management
-- Integrated power supply
+- Communication over GSM
 - External active antenna support
