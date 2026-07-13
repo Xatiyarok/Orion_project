@@ -66,5 +66,5 @@ Project Orion was developed as a personal engineering project to deepen the unde
 
 - Controlled 50 Ω RF impedance
 - Battery management
-- Communication over GSM
+- Communication over LTE-M
 - External active antenna support
